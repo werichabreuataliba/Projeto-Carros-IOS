@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TableViewCarrosControllerTableViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:TableViewCarrosControllerTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSData(contentsOf: URL(fileURLWithPath: carro.url_foto))&#10;">
+            </PersistentString>
+            <PersistentString
+               value = "carros">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static CarroService.getCarrosByTipoFromFile(tipo : String) -&gt; [Carro]:CarroService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TableViewCarrosControllerTableViewController.viewDidLoad() -&gt; ():TableViewCarrosControllerTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableView">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
